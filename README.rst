@@ -49,7 +49,7 @@ Contributing
 Support
 =======
 
-For support or questions, please open an issue in the repository or contact us at support@example.com.
+For support or questions, please open an issue in the repository or contact us at shahanand1072004@gmail.com.
 
 License
 =======
@@ -59,4 +59,4 @@ This module is licensed under the MIT License.
 Authors
 =======
 
-- Anand Shah <shahanand1072004@gmail.com>
+- Anand Shah.
