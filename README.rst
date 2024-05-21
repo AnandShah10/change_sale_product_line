@@ -54,7 +54,7 @@ For support or questions, please open an issue in the repository or contact us a
 License
 =======
 
-This module is licensed under the MIT License.
+This module is licensed under the GPL-3 License.
 
 Authors
 =======
